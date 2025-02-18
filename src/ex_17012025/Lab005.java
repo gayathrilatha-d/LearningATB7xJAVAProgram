@@ -6,6 +6,5 @@ public class Lab005 {
         char t='\t';
         System.out.println("Pramod"+r+"Datta" );
         System.out.println("Pramod"+t+"Datta" );
-
     }
 }
