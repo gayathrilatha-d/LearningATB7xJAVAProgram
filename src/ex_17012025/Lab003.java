@@ -11,5 +11,11 @@ public class Lab003 {
         double yum= 883939;
 
         System.out.println(yum);
+            System.out.println(b);
+            System.out.println(s);
+            System.out.println(Num);
+            System.out.println(name);
+            System.out.println(f);
+            System.out.println(rest);
     }
 }
